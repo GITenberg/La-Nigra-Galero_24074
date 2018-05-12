@@ -1,0 +1,38 @@
+_repo: La-Nigra-Galero_24074
+_version: 0.1.0
+alternative_title: Die schwarze Galeere. Esperanto
+contributor:
+  translator:
+    agent_name: Wicke, Fritz
+    gutenberg_agent_id: '26223'
+    url: http://www.gutenberg.org/2009/agents/26223
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Raabe, Wilhelm
+    aliases:
+    - Corvinus, Jacob
+    - Raabe, Wilhelm Karl
+    - Corvinus, Jakob
+    birthdate: 1831
+    deathdate: 1910
+    gutenberg_agent_id: '8890'
+    url: http://www.gutenberg.org/2009/agents/8890
+    wikipedia: http://de.wikipedia.org/wiki/Wilhelm_Raabe
+description: 'Translation of: Die schwarze Galeere'
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2007-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24074'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Netherlands -- History -- Eighty Years'' War, 1568-1648 -- Fiction'
+title: La Nigra Galero
+url: http://www.gutenberg.org/ebooks/24074
