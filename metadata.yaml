@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8890
     wikipedia: http://de.wikipedia.org/wiki/Wilhelm_Raabe
 description: 'Translation of: Die schwarze Galeere'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24074#La-Nigra-Galero
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2007-12-29'
 gutenberg_type: Text
